@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,25:2d1b4e,50:1e3a5f,75:0b1030,100:05060f&height=200&section=header&text=Aaryan%20Kamdar&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer&descSize=20&descAlignY=55&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,25:2d1b4e,50:1e3a5f,75:0b1030,100:05060f&height=200&section=header&text=Aaryan%20Kamdar&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer&descSize=20&descAlignY=55&animation=twinkling" alt="Header Wave" />
 
 <br>
 
@@ -12,28 +12,29 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/aaryan-kamdar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/aaryanK__14/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="mailto:aaryankamdar2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aaryan-kamdar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/aaryanK__14/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="mailto:aaryankamdar2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
+</div>
 
 ---
 
 ### `> whoami`
 
 ```yaml
-name:      Aaryan Kamdar
-role:      Backend Engineer
-education: B.Tech, Information Technology
-           D. J. Sanghvi College of Engineering
-           2023 – 2027 · CGPA 8.99
-location:  Mumbai, India
+name:       Aaryan Kamdar
+role:       Backend Engineer
+education:  B.Tech, Information Technology
+            D. J. Sanghvi College of Engineering
+            2023 – 2027 · CGPA 8.99
+location:   Mumbai, India
 focus:
   - event-driven & distributed architectures
   - REST APIs, auth & role-based access control
   - real-time data pipelines (Kafka · WebSocket)
   - applied AI / LLM integrations
-currently: turning caffeine into low-latency services ☕
+currently:  turning caffeine into low-latency services ☕
 ```
 
 ---
