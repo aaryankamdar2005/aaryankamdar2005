@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/galaxy.svg" width="100%" alt="Animated star constellation galaxy" />
+<img src="cosmos.svg" width="100%" alt="Animated star constellation galaxy" />
 
 <br>
 
