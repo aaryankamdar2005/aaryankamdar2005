@@ -6,13 +6,15 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aaryan+Kamdar+%F0%9F%91%8B;Backend+Engineer;Distributed+Systems+Enthusiast;Building+fast%2C+reliable+systems;Let's+create+something+ambitious" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aaryan+Kamdar+%F0%9F%91%8B;Backend+Engineer;Building+fast%2C+reliable+systems;Let's+create+something+ambitious" alt="Typing SVG" />
   </a>
 </p>
 
 <br>
 
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aaryan-kamdar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/aaryanK__14/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="mailto:aaryankamdar2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
 ---
