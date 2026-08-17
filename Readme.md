@@ -1,14 +1,17 @@
 <div align="center">
 
-<img src="cosmos.svg" width="100%" alt="Animated star constellation galaxy" />
+<!-- ✦ COSMOS BANNER ✦ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05060f,35:160a2e,70:2b1055,100:0b1030&height=220&section=header&text=&fontSize=0" />
 
-<br>
+<!-- ✦ ANIMATED NAME OVER COSMOS ✦ -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=2600&pause=700&color=8B5CF6&background=05060F&center=true&vCenter=true&width=900&height=110&lines=%E2%9C%A6+AARYAN+KAMDAR+%E2%9C%A6;Backend+Engineer;Event-Driven+%C2%B7+Distributed+%C2%B7+Real-Time" alt="Aaryan Kamdar" />
+</a>
 
-<a href="https://www.linkedin.com/in/aaryan-kamdar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/aaryanK__14/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="mailto:aaryankamdar2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- ✦ STARFIELD / GALAXY STRIP ✦ -->
+<img width="100%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="cosmos" />
 
-</div>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 
 ---
 
@@ -60,22 +63,9 @@ currently: turning caffeine into low-latency services ☕
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aaryankamdar2005&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryankamdar2005&layout=donut&theme=github_dark&hide_border=true" alt="Top languages" />
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aaryankamdar2005/aaryankamdar2005/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-
-</div>
 
 ---
 
@@ -87,11 +77,9 @@ currently: turning caffeine into low-latency services ☕
 
 ---
 
-<div align="center">
-
 ### 💬 Let's build something fast, reliable and a little bit ambitious.
 
-<a href="mailto:aaryankamdar2005@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-36BCF7?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Say%20Hello-36BCF7?style=for-the-badge&logo=minutemailer&logoColor=white" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:160a2e,50:0b1030,100:05060f&height=140&section=footer" />
 
