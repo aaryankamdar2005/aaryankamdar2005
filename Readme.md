@@ -71,7 +71,7 @@ currently:  turning caffeine into low-latency services ☕
 <div align="center">
 
 <img src="https://github-stats-extended-frontend-nine-kappa.vercel.app/api?username=aaryankamdar2005&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryankamdar2005&layout=donut&theme=github_dark&hide_border=true" alt="Top languages" />
+<img src="https://github-stats-extended-frontend-nine-kappa.vercel.app/api/top-langs/?username=aaryankamdar2005&layout=donut&theme=github_dark&hide_border=true" alt="Top languages" />
 
 </div>
 
