@@ -1,52 +1,6 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="300" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid slice" role="img" aria-label="3D galaxy background with animated name and highlights">
-  <defs>
-    <linearGradient id="grad" x1="0" x2="1">
-      <stop offset="0%" stop-color="#8be9fd"/>
-      <stop offset="50%" stop-color="#9b59ff"/>
-      <stop offset="100%" stop-color="#ff6b6b"/>
-    </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <!-- background image (your existing cosmos.svg) -->
-  <image href="cosmos.svg" x="0" y="0" width="1200" height="300" preserveAspectRatio="xMidYMid slice" />
-
-  <!-- animated name overlay -->
-  <text x="50%" y="45%" text-anchor="middle" font-family="Inter, Roboto, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="44" font-weight="700" fill="url(#grad)" filter="url(#glow)">
-    Aaryan Kamdar
-    <animate attributeName="opacity" values="0;1;0.85;1" dur="4s" repeatCount="indefinite" />
-    <animate attributeName="y" values="150;140;150" dur="3.6s" repeatCount="indefinite" />
-  </text>
-
-  <!-- animated highlights (small pill badges) -->
-  <g font-family="Inter, Roboto, sans-serif" font-size="14" fill="#fff" text-anchor="middle">
-    <!-- Badge 1 -->
-    <g transform="translate(450,210)">
-      <rect x="-110" y="-16" rx="14" ry="14" width="220" height="32" fill="#161b22" opacity="0.75">
-        <animate attributeName="opacity" values="0.6;0.95;0.6" dur="3s" repeatCount="indefinite" />
-      </rect>
-      <text x="0" y="6">Backend Engineer · Low-latency services</text>
-    </g>
-
-    <!-- Badge 2 -->
-    <g transform="translate(740,210)">
-      <rect x="-115" y="-16" rx="14" ry="14" width="230" height="32" fill="#0b84ff" opacity="0.85">
-        <animate attributeName="x" values="-115;-120;-115" dur="4s" repeatCount="indefinite" />
-        <animate attributeName="opacity" values="0.7;0.98;0.7" dur="4s" repeatCount="indefinite" />
-      </rect>
-      <text x="0" y="6">Event-driven · Distributed Systems</text>
-    </g>
-  </g>
-
-</svg>
+<img src="cosmos.svg" width="100%" alt="Animated star constellation galaxy" />
 
 <br>
 
